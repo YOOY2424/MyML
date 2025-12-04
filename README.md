@@ -48,3 +48,4 @@ git push origin main
 - 对 KNN 和 LogisticRegression 代码做向量化与性能优化
 - 增加输入校验、异常处理与单元测试
 - 增加多分类支持、模型保存/加载功能
+- KNN还有问题没有修改
