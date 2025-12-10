@@ -1,9 +1,12 @@
 # MyML
 
-这是一个用于教学和练习的轻量级机器学习示例仓库，包含手写的 KNN 和 LogisticRegression 简单实现，方便新手理解算法细节与基本 API。
+这是一个用于教学和练习的轻量级机器学习示例仓库，里面的算法全部依靠numpy和pandas库手搓完成，方便新手理解算法细节与基本 API。
 
 ## 内容简介
-- Class.py: 包含 KNN 和 LogisticRegression 两个类的简单实现（fit / predict / predict_proba）。
+- Class.py: 包含所有基础机器学习算法的简单实现
+## 目前已完成算法
+- K近邻（KNN）
+- 逻辑回归（LogisticRegression）
 
 ## 使用示例
 ```python
